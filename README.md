@@ -1,4 +1,6 @@
 docker-base
 ===========
 
-Base Image for Docker
+Base Image for Docker. It includes:
+
+* `supervisord` 
