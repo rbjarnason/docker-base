@@ -1,7 +1,7 @@
 # base - Base Image with supervisord
 
 FROM ubuntu
-MAINTAINER David Zumbrunnen <zumbrunnen@gmail.com>
+MAINTAINER Robert Bjarnason <robert@citizens.is>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LANG en_US.utf8
