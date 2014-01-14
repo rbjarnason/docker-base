@@ -1,4 +1,4 @@
-# base - Base Image with supervisord
+# base - Base Image with supervisord .
 
 FROM ubuntu
 MAINTAINER Robert Bjarnason <robert@citizens.is>
