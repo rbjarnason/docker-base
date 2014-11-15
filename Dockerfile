@@ -1,9 +1,9 @@
 # base - Base Image with supervisord .
 
-FROM ubuntu
+FROM dockerfile/ubuntu
 MAINTAINER Robert Bjarnason <robert@citizens.is>
 
-RUN echo 'version 0.2'
+RUN echo 'version 0.3'
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LANG en_US.utf8
