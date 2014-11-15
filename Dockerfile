@@ -3,6 +3,8 @@
 FROM ubuntu
 MAINTAINER Robert Bjarnason <robert@citizens.is>
 
+RUN echo 'version 0.2'
+
 ENV DEBIAN_FRONTEND noninteractive
 ENV LANG en_US.utf8
 ENV LANGUAGE en_US:en
